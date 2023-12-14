@@ -1,5 +1,5 @@
 # สรุปเนื้อหา: หลักพื้นฐานกฎหมายเอกชน
 
-![](https://github.com/wattanit/thai-law-summaries/blob/main/%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%8F%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%8A%E0%B8%99/%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%8A%E0%B8%99.pdf?raw=true)
+![หลักพื้นฐานกฎหมายเอกชน.pdf](https://github.com/wattanit/thai-law-summaries/blob/main/%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%8F%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%8A%E0%B8%99/%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%8A%E0%B8%99.pdf?raw=true)
 
 _สรุปจากเลคเชอร์วิชาหลักพื้นฐานกฎหมาย คณะนิติศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย ภาคบันฑิต ปีการศึกษา 2566_
