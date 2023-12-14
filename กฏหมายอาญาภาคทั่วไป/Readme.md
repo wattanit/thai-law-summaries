@@ -1,5 +1,5 @@
 # สรุปเนื้อหา: กฏหมายอาญาภาคทั่วไป
 
-![](https://github.com/wattanit/thai-law-summaries/blob/main/%E0%B8%81%E0%B8%8F%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%B2%E0%B8%8D%E0%B8%B2%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B/%E0%B8%81%E0%B8%8F%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%8D%E0%B8%B2%20%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B.png?raw=true)
+[กฏหมายอาญาภาคทั่วไป.pdf](https://raw.githubusercontent.com/wattanit/thai-law-summaries/main/%E0%B8%81%E0%B8%8F%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%B2%E0%B8%8D%E0%B8%B2%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%B2%E0%B8%8D%E0%B8%B2%20%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B.pdf)
 
 _สรุปจากเลคเชอร์วิชากฏหมายอาญาภาคทั่วไป คณะนิติศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย ภาคบัณฑิต ปีการศึกษา 2566, หนังสือของศ.ดร. คณพล จันทร์หอม, และหนังสือของ ดร.เกียรติขจร วัจนะสวัสดิ์_
